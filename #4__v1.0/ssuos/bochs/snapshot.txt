@@ -1,0 +1,25 @@
+Selected Process : 4
+#= 1 p=  90 c=  0 u=  80, #= 2 p=  90 c= 60 u=  60, #= 4 p=  80 c= 60 u= 140
+Selected Process : 4
+#= 1 p=  90 c=  0 u=  80, #= 2 p=  90 c= 60 u=  60, #= 4 p=  80 c= 60 u= 200
+Selected Process : 4
+#= 1 p=  90 c=  0 u=  80, #= 2 p=  90 c= 60 u=  60, #= 4 p=  80 c= 60 u= 260
+Selected Process : 4
+Terminated : 4
+#= 1 p=  90 c=  0 u=  80, #= 2 p=  90 c= 60 u=  60
+Selected Process : 2
+#= 1 p=  90 c=  0 u=  80
+Selected Process : 1
+#= 1 p=  90 c= 60 u= 140, #= 2 p=  90 c=  0 u=  80
+Selected Process : 1
+#= 1 p=  90 c= 60 u= 200, #= 2 p=  90 c=  0 u=  80
+Selected Process : 1
+Terminated : 1
+#= 2 p=  90 c=  0 u=  80
+¬elected Process : 2
+#= 2 p=  90 c= 60 u= 140
+Selected Process : 2
+#= 2 p=  90 c= 60 u= 200
+Selected Process : 2
+Terminated : 2
+
